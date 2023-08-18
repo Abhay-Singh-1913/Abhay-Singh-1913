@@ -41,9 +41,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Abhay-Singh-1913/Abhay-Singh-1913/output/snake.svg" alt="Snake animation" />
 
 ###
 
