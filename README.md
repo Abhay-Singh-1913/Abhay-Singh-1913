@@ -1,4 +1,4 @@
-<h4 align="center">last year of computer 👨‍⚖️engineering, <br>15th Dec 2001🎂, <br>"Let's make a Tech World🌎 together"👍</h4>
+<h4 align="center">Bachelor of computer👨‍⚖️engineering, <br>15th Dec 2001🎂, <br>"Let's make a Tech World🌎 together"👍</h4>
 
 ###
 
