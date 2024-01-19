@@ -21,9 +21,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)" height="30" alt="java logo"  />
-  <img width="12" />
-  ![Next JS]() 
 </div>
 
 ###
